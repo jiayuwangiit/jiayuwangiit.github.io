@@ -35,6 +35,7 @@ ul,li{
     margin: auto;
     font-size: 64px;
     font-weight: 600;
+    user-select: none;
 }
 #bio-box{
     background: #3483d2;
